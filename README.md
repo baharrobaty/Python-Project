@@ -1,6 +1,7 @@
 # YouTube Trending Data Analysis Project
 ## 👥 Group Members
 | Name | Student ID |
+| :--- | :--- |
 | **Bahareh Robaty Shirzad** | 946887 |
 | **Samira Doshmankosh** | ... |
 | **Setayesh Mohammadi Banadkooki** | ... |
