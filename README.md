@@ -3,8 +3,8 @@
 | Name | Student ID |
 | :--- | :--- |
 | **Bahareh Robaty Shirzad** | 946887 |
-| **Samira Doshmankosh** | ... |
-| **Setayesh Mohammadi Banadkooki** | ... |
+| **Samira Doshmankosh** | 946863 |
+| **Setayesh Mohammadi Banadkooki** | 926072 |
 
 ### Task Distribution:
 * **Questions 1 to 5:** Handled by [Bahareh Robaty Shirzad]
